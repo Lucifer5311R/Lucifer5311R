@@ -8,8 +8,7 @@ To finalize:
 -->
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&w=1600&q=80"
-       alt="Futuristic development banner"
+  <img src= "https://downloadscdn6.freepik.com/169016/52/51607.jpg?filename=laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg&token=exp=1757965454~hmac=76818f232700b11d8f347c13cebf0519&filename=51607.jpg"
        style="border-radius:14px;max-width:100%;height:auto;" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1400&color=19F7FF&center=true&vCenter=true&width=600&lines=Rapid+prototyper;Mobile+%26+creative+tool+builder;Learning+in+public"
@@ -46,8 +45,7 @@ To finalize:
   <tr>
     <td width="33%">
       <a href="https://github.com/Lucifer5311R/protoype">
-        <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&w=800&q=80"
-             alt="protoype – ideation workspace"
+        <img src="https://wallpapercave.com/wp/wp8371852.jpg"
              style="border-radius:10px;" />
       </a>
       <br><b><a href="https://github.com/Lucifer5311R/protoype">protoype</a></b>
@@ -55,8 +53,7 @@ To finalize:
     </td>
     <td width="33%">
       <a href="https://github.com/Lucifer5311R/ringtone-generator">
-        <img src="https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?auto=format&w=800&q=80"
-             alt="ringtone-generator – audio waveform"
+        <img src = "https://media.istockphoto.com/id/1081119226/photo/black-analog-synthesizer.jpg?s=1024x1024&w=is&k=20&c=AchIpx2P1R0TpKay4JPU_xdufRZE6CS0UzA-H-8W2ag="
              style="border-radius:10px;" />
       </a>
       <br><b><a href="https://github.com/Lucifer5311R/ringtone-generator">ringtone-generator</a></b>
