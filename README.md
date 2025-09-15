@@ -1,29 +1,25 @@
 <!--
 Profile README for @Lucifer5311R
-Tips:
-1. Add real screenshots in /assets and update the paths.
-2. Keep images optimized (≈ 150–300 KB each).
-3. If a section feels too busy, comment it out.
+To finalize:
+1. Download the external images below.
+2. Optimize & place them into /assets.
+3. Replace external URLs with local /assets/... paths.
+4. (Optional) Add attribution in a footnote.
 -->
 
-<!-- ========== HERO ========== -->
 <div align="center">
-  <!-- Optional: After adding your own banner, place it in assets/hero-banner.png -->
-  <img src="https://raw.githubusercontent.com/Lucifer5311R/Lucifer5311R/main/assets/hero-banner.png"
-       alt="Lucifer – Prototypes & Creative Tools"
-       style="border-radius:14px;max-width:100%;"
-       onerror="this.src='https://via.placeholder.com/1280x360/090a0f/19f7ff?text=Lucifer+%E2%80%A2+Prototypes+%26+Creative+Tools';" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&w=1600&q=80"
+       alt="Futuristic development banner"
+       style="border-radius:14px;max-width:100%;height:auto;" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1400&color=19F7FF&center=true&vCenter=true&width=600&lines=Rapid+prototyper;Mobile+%26+creative+tool+builder;Learning+in+public"
        alt="Typing animation" />
 </div>
 
-<!-- Tagline -->
 <p align="center">
   <b>Building quick experiments → polishing what sticks → shipping in public.</b>
 </p>
 
-<!-- ========== BADGES / QUICK FACTS ========== -->
 <p align="center">
   <a href="https://github.com/Lucifer5311R?tab=repositories">
     <img alt="Public Repos"
@@ -50,30 +46,27 @@ Tips:
   <tr>
     <td width="33%">
       <a href="https://github.com/Lucifer5311R/protoype">
-        <img src="https://raw.githubusercontent.com/Lucifer5311R/Lucifer5311R/main/assets/project-protoype.png"
-             alt="protoype screenshot"
-             style="border-radius:10px;"
-             onerror="this.src='https://via.placeholder.com/400x220/0b0f17/19f7ff?text=protoype';"/>
+        <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&w=800&q=80"
+             alt="protoype – ideation workspace"
+             style="border-radius:10px;" />
       </a>
       <br><b><a href="https://github.com/Lucifer5311R/protoype">protoype</a></b>
       <br><sub>Rapid idea experiments & scaffolds.</sub>
     </td>
     <td width="33%">
       <a href="https://github.com/Lucifer5311R/ringtone-generator">
-        <img src="https://raw.githubusercontent.com/Lucifer5311R/Lucifer5311R/main/assets/project-ringtone.png"
-             alt="ringtone-generator screenshot"
-             style="border-radius:10px;"
-             onerror="this.src='https://via.placeholder.com/400x220/0b0f17/ff54b0?text=ringtone-generator';"/>
+        <img src="https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?auto=format&w=800&q=80"
+             alt="ringtone-generator – audio waveform"
+             style="border-radius:10px;" />
       </a>
       <br><b><a href="https://github.com/Lucifer5311R/ringtone-generator">ringtone-generator</a></b>
       <br><sub>Audio remixing & tone creation.</sub>
     </td>
     <td width="33%">
       <a href="https://github.com/Lucifer5311R/Christ">
-        <img src="https://raw.githubusercontent.com/Lucifer5311R/Lucifer5311R/main/assets/project-christ.png"
-             alt="Christ project screenshot"
-             style="border-radius:10px;"
-             onerror="this.src='https://via.placeholder.com/400x220/0b0f17/8a6bff?text=Christ';"/>
+        <img src="https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&w=800&q=80"
+             alt="Christ – structured spiritual text"
+             style="border-radius:10px;" />
       </a>
       <br><b><a href="https://github.com/Lucifer5311R/Christ">Christ</a></b>
       <br><sub>Exploring structured spiritual data.</sub>
@@ -124,8 +117,7 @@ Tips:
 ---
 
 ### 💬 Connect
-<!-- Replace these with real links -->
-Email: your-email@example.com • X/Twitter: @your-handle • LinkedIn: your-handle • Site: https://your-site.com
+Email: durgaduttsb006@gmail.com • X/Twitter: @SDurgadutt • LinkedIn: www.linkedin.com/in/durgadutt-s-b-860005230
 
 ---
 
@@ -134,33 +126,14 @@ Email: your-email@example.com • X/Twitter: @your-handle • LinkedIn: your-han
 
 Hi, I'm Lucifer — I build quick prototypes (mobile + creative tools), learn in public, and refine what gets traction.  
 Highlighted: protoype • ringtone-generator • Christ
-
 </details>
 
 ---
 
-### 🗂 Assets Setup (optional guidance)
-Create an /assets folder in this same repo:
-assets/
-  hero-banner.png
-  project-protoype.png
-  project-ringtone.png
-  project-christ.png
-
-Recommended sizes:
-- hero-banner.png: 1280x360 (subtle gradient, your name + tagline)
-- project images: 800x440 or 640x360
-- Keep each under ~300 KB (use tinypng or squoosh)
-
----
-
-### 📎 Notes
-- External services (stats, typing svg) may have rate limits or downtime.
-- Replace placeholder badges or remove sections for ultra-minimal mode.
-- Consider adding a pinned Gist for changelog or experiments log later.
-
----
-
 <p align="center">
-  <sub>Last updated: 2025-09-15 19:14:30 (UTC)</sub>
+  <sub>Last updated: 2025-09-15 19:27:45 (UTC)</sub>
 </p>
+
+<!-- Optional attribution (uncomment if you keep Unsplash originals)
+<sub>Images: Unsplash contributors (see commit history for source links).</sub>
+-->
